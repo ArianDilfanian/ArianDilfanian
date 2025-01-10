@@ -1,4 +1,4 @@
-## Hi there! I'm Arian, a AI Engineer 👋🏻
+## Hi there! I'm Arian, an AI Engineer 👋🏻
 
 
 💻 I’m currently working on Reinforcement learning<br><br>🌱 learning AI<br>
