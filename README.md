@@ -1,7 +1,7 @@
-## Hi there 👋 My name is Arian Dilfanian
+## Hi there! I'm Arian, a AI Engineer 👋🏻
 
-# 💫 About Me:
-💻 I’m currently working on Reinforcement learning<br><br>🌱 I’m currently learning AI<br>
+
+💻 I’m currently working on Reinforcement learning<br><br>🌱 learning AI<br>
 
 
 ## 🌐 Socials:
