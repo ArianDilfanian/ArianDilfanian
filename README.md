@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Arian Dilfanian
 
 # 💫 About Me:
 💻 I’m currently working on Reinforcement learning<br><br>🌱 I’m currently learning AI<br>
