@@ -19,7 +19,7 @@ Building scalable ML pipelines and teaching AI/ML through hands-on projects
 
 NLP & Static Code Analysis (Bug Detection with CodeBERT, BugLab, and more)
 
-📚 I'm passionate about making AI accessible. As an educator and mentor, I’ve guided learners through practical projects and leading online courses (e.g., CS50, Stanford).
+📚 I'm passionate about making AI accessible. As an educator and mentor, I’ve guided learners through practical projects and leading online courses (e.g., CS50, Stanford).I also hold certifications from Harvard and Stanford, where I studied computer science and advanced AI topics.
 
 💡 Currently exploring: Researching, Vision + language models, program understanding with LLMs, and autonomous AI systems.
 
