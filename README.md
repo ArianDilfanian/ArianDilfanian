@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Arian — an AI & Machine Learning Engineer | Researcher | Educator
+## 👋 Hi!, I'm Arian — an AI & Machine Learning Engineer | Researcher | Educator
 
 
 
