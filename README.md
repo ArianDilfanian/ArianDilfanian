@@ -5,19 +5,23 @@
 
 🔬 I specialize in designing and deploying intelligent systems that solve real-world problems using AI, with a focus on Computer Vision, Natural Language Processing, and static code analysis.
 
-🧠 My work spans:
+My work spans:
 
-Applied Deep Learning in Computer Vision (YOLOv8, image classification, face recognition, etc.)
+🧠 Applied Deep Learning in Computer Vision
+(YOLOv8, image classification, face recognition, etc.)
 
-Applied Deep Learning (CV, NLP, and more)
+🤖 Applied Deep Learning
+(Computer Vision, NLP, and beyond)
 
-Edge AI & Embedded Systems (ESP32, NRF modules, real-time data processing)  
+⚙️ Edge AI & Embedded Systems
+(ESP32, NRF modules, real-time data processing)
 
-Research in code quality, explainable AI, and LLM-based software analysis
+📊 Research in Code Quality, Explainable AI, and LLM-Based Software Analysis
 
-Building scalable ML pipelines and teaching AI/ML through hands-on projects
+🚀 Building Scalable ML Pipelines & Teaching AI/ML through Hands-On Projects
 
-NLP & Static Code Analysis (Bug Detection with CodeBERT, BugLab, and more)
+📚 NLP & Static Code Analysis
+(Bug Detection with CodeBERT, BugLab, and more)
 
 📚 I'm passionate about making AI accessible. As an educator and mentor, I’ve guided learners through practical projects and leading online courses (e.g., CS50, Stanford).I also hold certifications from Harvard and Stanford, where I studied computer science and advanced AI topics.
 
