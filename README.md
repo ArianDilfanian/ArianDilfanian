@@ -3,7 +3,7 @@
 
 
 
-🔬 I specialize in designing and deploying intelligent systems that solve real-world problems using AI, with a focus on Computer Vision, Natural Language Processing, and static code analysis.
+🔬 I specialize in designing and deploying intelligent systems that solve real-world problems using AI, with a focus on Computer Vision, Natural Language Processing, Cyber Security and static code analysis.
 
 My work spans:
 
@@ -25,7 +25,7 @@ My work spans:
 
 💻 I'm passionate about making AI accessible. As an educator and mentor, I’ve guided learners through practical projects.I also hold certifications from Harvard and Stanford, where I studied computer engineering and advanced AI topics.
 
-💡 Currently exploring: Researching, Vision + language models, program understanding with LLMs, and autonomous AI systems.
+💡 Currently exploring: Cyber security and Networking, Researching, Vision + language models, program understanding with LLMs, and autonomous AI systems.
 
 📁 Check out my repos to explore real-world AI projects, tools, and research.
 
